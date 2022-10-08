@@ -6,7 +6,7 @@
 3. Trabajar de manera particular en el archivo index.html
 4. Los organizadores gráficos pueden ser colocados, uno por cada presentación (**slide**)
 
-##DESARROLLADO POR:
+### DESARROLLADO POR:
 
 1. Jorge Daniel Leiva Paladinez
 2. Freddy Alexander Chamorro Encalada
